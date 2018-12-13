@@ -71,4 +71,4 @@ media/
 collected_static/
 
 # Ignore secrets
-secrets.py
+secret.py
